@@ -1,0 +1,26 @@
+img {
+  border-radius: 40px;
+  width: 200px;
+}
+body {
+color: #bcbcbc;
+background-color: #191919;
+  font-family: Hack Nerd Font;
+}
+.tg {
+  width: 53px;
+}
+.gh {
+  width: 60px;
+}
+.all {
+  display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+  text-align: center;
+}
+a {
+  color: #191919;
+}
