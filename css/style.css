@@ -5,7 +5,7 @@ img {
 body {
 color: #bcbcbc;
 background-color: #191919;
-  font-family: Hack Nerd Font;
+  font-family: Hack, monospace;
 }
 .tg {
   width: 53px;
