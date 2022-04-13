@@ -3,8 +3,8 @@ img {
   width: 200px;
 }
 body {
-color: #bcbcbc;
-background-color: #191919;
+color: #e5e9f0;
+background-color: #2e3440;
   font-family: Hack, monospace;
 }
 .tg {
@@ -22,5 +22,5 @@ background-color: #191919;
   text-align: center;
 }
 a {
-  color: #191919;
+  color: #2e3440;
 }
